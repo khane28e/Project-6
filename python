@@ -1,0 +1,18 @@
+# x = 7.9
+# y = 9
+# z = 4
+
+# result#s = round(x)
+# results = abs(y)
+# results = pow(x)
+# results = max(x)
+
+# print(results)
+
+# import math
+# print(math.pi)
+# print(math.e)
+# results = math.ceil(x)
+# results = math.floor(x)
+
+# print(results)
